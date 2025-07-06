@@ -1,0 +1,13 @@
+body {
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+}
+
+
+label {
+    display: flex;
+    padding: 30px 20px;
+    background-color: bisque;
+    border-radius: 2%;
+}
